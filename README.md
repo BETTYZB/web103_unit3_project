@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://image2url.com/r2/default/gifs/1773633021339-12770fb3-a12a-4dce-a751-a6db86fdfb1f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Recording 2026-03-15 221557.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
