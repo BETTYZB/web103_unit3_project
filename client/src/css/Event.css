@@ -54,4 +54,38 @@
     font-weight: 700;
     padding: 10px;
     text-align: center;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.event-past {
+    filter: grayscale(80%);
+    opacity: 0.7;
+}
+
+.title-past {
+    text-decoration: line-through;
+    opacity: 0.8;
+}
+
+.countdown {
+    margin-top: 10px;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.countdown i {
+    margin-right: 6px;
+}
+
+.location-filter {
+    margin-top: 12px;
+    padding: 8px 12px;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: 2px solid white;
+    background-color: var(--secondary);
+    color: white;
+    cursor: pointer;
 }
